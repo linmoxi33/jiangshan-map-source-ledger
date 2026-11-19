@@ -1,0 +1,239 @@
+{
+  "by_dynasty": [
+    {
+      "cited": 0,
+      "coverage_pct": 0.0,
+      "dynasty": "beisong",
+      "total": 92,
+      "unsourced": 92
+    },
+    {
+      "cited": 0,
+      "coverage_pct": 0.0,
+      "dynasty": "donghan",
+      "total": 89,
+      "unsourced": 89
+    },
+    {
+      "cited": 0,
+      "coverage_pct": 0.0,
+      "dynasty": "dongjin",
+      "total": 2,
+      "unsourced": 2
+    },
+    {
+      "cited": 22,
+      "coverage_pct": 32.84,
+      "dynasty": "journey",
+      "total": 67,
+      "unsourced": 45
+    },
+    {
+      "cited": 0,
+      "coverage_pct": 0.0,
+      "dynasty": "ming",
+      "total": 99,
+      "unsourced": 99
+    },
+    {
+      "cited": 0,
+      "coverage_pct": 0.0,
+      "dynasty": "nanbei",
+      "total": 71,
+      "unsourced": 71
+    },
+    {
+      "cited": 0,
+      "coverage_pct": 0.0,
+      "dynasty": "nansong",
+      "total": 89,
+      "unsourced": 89
+    },
+    {
+      "cited": 1,
+      "coverage_pct": 0.81,
+      "dynasty": "person",
+      "total": 123,
+      "unsourced": 122
+    },
+    {
+      "cited": 0,
+      "coverage_pct": 0.0,
+      "dynasty": "prc",
+      "total": 12,
+      "unsourced": 12
+    },
+    {
+      "cited": 0,
+      "coverage_pct": 0.0,
+      "dynasty": "qing",
+      "total": 117,
+      "unsourced": 117
+    },
+    {
+      "cited": 0,
+      "coverage_pct": 0.0,
+      "dynasty": "roc",
+      "total": 36,
+      "unsourced": 36
+    },
+    {
+      "cited": 73,
+      "coverage_pct": 43.71,
+      "dynasty": "tang",
+      "total": 167,
+      "unsourced": 94
+    },
+    {
+      "cited": 0,
+      "coverage_pct": 0.0,
+      "dynasty": "wudai",
+      "total": 46,
+      "unsourced": 46
+    },
+    {
+      "cited": 0,
+      "coverage_pct": 0.0,
+      "dynasty": "xihan",
+      "total": 86,
+      "unsourced": 86
+    },
+    {
+      "cited": 0,
+      "coverage_pct": 0.0,
+      "dynasty": "yuan",
+      "total": 50,
+      "unsourced": 50
+    },
+    {
+      "cited": 10,
+      "coverage_pct": 12.66,
+      "dynasty": "zhanguo",
+      "total": 79,
+      "unsourced": 69
+    }
+  ],
+  "claimed_total": null,
+  "findings": [
+    {
+      "code": "OVER_CITATION",
+      "detail": "4 references (soft limit 3: extra ones must complement or disagree)",
+      "file": "tang.json",
+      "key": "event:tang:621b",
+      "severity": "warning"
+    },
+    {
+      "code": "PRIMARY_LOC_NO_VOLUME",
+      "detail": "primary source loc has no 卷 number: 'P.T.1288 第13—14行；Dotson 2009 第82页'",
+      "file": "tang.json",
+      "key": "event:tang:644",
+      "severity": "warning"
+    },
+    {
+      "code": "OVER_CITATION",
+      "detail": "7 references (soft limit 3: extra ones must complement or disagree)",
+      "file": "tang.json",
+      "key": "event:tang:648",
+      "severity": "warning"
+    },
+    {
+      "code": "OVER_CITATION",
+      "detail": "8 references (soft limit 3: extra ones must complement or disagree)",
+      "file": "tang.json",
+      "key": "event:tang:658",
+      "severity": "warning"
+    },
+    {
+      "code": "OVER_CITATION",
+      "detail": "5 references (soft limit 3: extra ones must complement or disagree)",
+      "file": "tang.json",
+      "key": "event:tang:675b",
+      "severity": "warning"
+    },
+    {
+      "code": "OVER_CITATION",
+      "detail": "4 references (soft limit 3: extra ones must complement or disagree)",
+      "file": "tang.json",
+      "key": "event:tang:677",
+      "severity": "warning"
+    },
+    {
+      "code": "PRIMARY_LOC_NO_VOLUME",
+      "detail": "primary source loc has no 卷 number: '法海《六祖大师法宝坛经略序》'",
+      "file": "tang.json",
+      "key": "event:tang:677",
+      "severity": "warning"
+    },
+    {
+      "code": "PRIMARY_LOC_NO_VOLUME",
+      "detail": "primary source loc has no 卷 number: '《曹溪大师别传》'",
+      "file": "tang.json",
+      "key": "event:tang:677",
+      "severity": "warning"
+    },
+    {
+      "code": "OVER_CITATION",
+      "detail": "4 references (soft limit 3: extra ones must complement or disagree)",
+      "file": "tang.json",
+      "key": "event:tang:697",
+      "severity": "warning"
+    },
+    {
+      "code": "OVER_CITATION",
+      "detail": "5 references (soft limit 3: extra ones must complement or disagree)",
+      "file": "tang.json",
+      "key": "event:tang:714",
+      "severity": "warning"
+    },
+    {
+      "code": "OVER_CITATION",
+      "detail": "4 references (soft limit 3: extra ones must complement or disagree)",
+      "file": "tang.json",
+      "key": "event:tang:737",
+      "severity": "warning"
+    },
+    {
+      "code": "OVER_CITATION",
+      "detail": "4 references (soft limit 3: extra ones must complement or disagree)",
+      "file": "tang.json",
+      "key": "event:tang:738",
+      "severity": "warning"
+    },
+    {
+      "code": "OVER_CITATION",
+      "detail": "4 references (soft limit 3: extra ones must complement or disagree)",
+      "file": "tang.json",
+      "key": "milestone:tang:645",
+      "severity": "warning"
+    },
+    {
+      "code": "OVER_CITATION",
+      "detail": "7 references (soft limit 3: extra ones must complement or disagree)",
+      "file": "tang.json",
+      "key": "milestone:tang:686",
+      "severity": "warning"
+    },
+    {
+      "code": "OVER_CITATION",
+      "detail": "4 references (soft limit 3: extra ones must complement or disagree)",
+      "file": "tang.json",
+      "key": "milestone:tang:713",
+      "severity": "warning"
+    }
+  ],
+  "records": {
+    "baseline_effective": 1119,
+    "baseline_listed": 1119,
+    "cited": 106,
+    "coverage_pct": 8.65,
+    "reconciled_total": 1225,
+    "reported_total": 1225,
+    "stale_baseline": 0
+  },
+  "root": "/home/ubuntu/GitHub/work/trending/jiangshan-map-source-ledger/examples/in",
+  "schema": 1,
+  "summary": {
+    "errors": 0,
+    "warnings": 15
+  }
+}
